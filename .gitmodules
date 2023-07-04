@@ -1,0 +1,3 @@
+[submodule "References/Commons.UnitOfWork"]
+	path = References/Commons.UnitOfWork
+	url = git@github.com:ProductionManagementSystem/Commons.UnitOfWork.git
